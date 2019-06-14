@@ -1,6 +1,6 @@
 {
   "name": "mgh-storage-factory",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Just a library to help with JSON and local/session storage.",
   "main": "src/index.js",
   "scripts": {
